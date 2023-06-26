@@ -8,7 +8,7 @@
   https://github.com/alexander-ladygin/illustrator-scripts/blob/master/harmonizer.jsx
 */
 
-var scriptName = 'OhRing',
+var scriptName = 'O-Ring',
     settingFile = {
         name: scriptName + '__0100.json',
         folder: Folder.myDocuments + '/' //LA_AI_Scripts
